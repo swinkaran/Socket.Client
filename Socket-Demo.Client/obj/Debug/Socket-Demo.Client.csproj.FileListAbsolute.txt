@@ -1,0 +1,6 @@
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.exe.config
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.exe
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.pdb
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.csprojResolveAssemblyReference.cache
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.exe
+c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.pdb
