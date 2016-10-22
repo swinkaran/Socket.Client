@@ -4,3 +4,14 @@ c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\
 c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.csprojResolveAssemblyReference.cache
 c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.exe
 c:\users\broswebs-desk\documents\visual studio 2015\Projects\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.pdb
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.exe.config
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.exe
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.pdb
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.exe
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.pdb
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.csprojResolveAssemblyReference.cache
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\NLog.dll
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket-Demo.Client\Socket-Demo.Client\bin\Debug\NLog.xml
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket.Client\Socket-Demo.Client\bin\Debug\Socket-Demo.Client.exe.config
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.exe
+C:\Users\Broswebs-Desk\Documents\GitHub\Socket.Client\Socket-Demo.Client\obj\Debug\Socket-Demo.Client.pdb
